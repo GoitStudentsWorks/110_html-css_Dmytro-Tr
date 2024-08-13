@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/yachtadventures/",
+    "build": "vite build --base=/110_html-css_Dmytro-Tr/",
     "preview": "vite preview"
   },
   "devDependencies": {
